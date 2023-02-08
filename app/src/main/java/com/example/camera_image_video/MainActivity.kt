@@ -18,7 +18,7 @@ class MainActivity : AppCompatActivity() {
 //            startActivityForResult(intent, 2)
             val intent = Intent(MediaStore.ACTION_IMAGE_CAPTURE)
             startActivityForResult(intent, 3)
-
+            // mới thêm nè
 
         }
 
